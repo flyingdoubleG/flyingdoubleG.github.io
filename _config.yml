@@ -108,11 +108,10 @@ author:
   avatar: "/assets/images/self.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "24' Yale MSCS"
   location: "New Haven, CT"
-  email: "zhe.wang.zw439@yale.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:zhe.wang.zw439@yale.edu"
+      url: "mailto:wangzhe00zju@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
