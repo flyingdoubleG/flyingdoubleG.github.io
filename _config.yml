@@ -106,7 +106,7 @@ analytics:
 author:
   name: "Zhe Wang"
   avatar: "/assets/images/self.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "24' Yale MSCS"
+  bio: "24' Yale MSCS. Believing that AI will have creativity one day and working on it. Interested in 3DG/LLM/agent/alignment/double descent/grokking. Always open to new connections and conversations."
   location: "New Haven, CT"
   links:
     - label: "Email"
