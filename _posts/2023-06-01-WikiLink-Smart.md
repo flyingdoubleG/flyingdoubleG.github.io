@@ -1,5 +1,3 @@
-# WikiLink Smart
-
 ## Introduction
 * WikiLink Smart is a semantic network designed for [combinatorial creativity](https://en.wikipedia.org/wiki/Computational_creativity). 
 * It's constructed based on statistical weights using [Wikipedia data](https://dumps.wikimedia.org/) and semantic weights using [fastText](https://fasttext.cc/). It's further filtered using spaCy's[ en_core_web_trf](https://spacy.io/models/en#en_core_web_trf) model.
@@ -26,6 +24,7 @@ idea generation：
 | Hair Dryer   | Comb             | Inspired by the idea of combining two styling tools in one, a hair dryer with a built-in comb can be designed to simplify the hair drying and styling process. The comb attachment can help to detangle hair while the dryer blows air, making it easier to achieve a sleek, polished look. | This innovative hair dryer features a built-in comb attachment to provide effortless and efficient styling. The comb attachment is designed to detangle hair while the powerful dryer blows hot air, reducing the risk of damage from excessive heat. The hair dryer also features multiple heat and speed settings, allowing users to customize their styling experience for optimal results. The compact size and lightweight design make it easy to pack for travel or use on the go. |
 
 sketches by designer after using WikiLink Smart to generate design ideas:
+
 | Base Concept | Additive Concept | Explanation | Description |
 | ------------ | ---------------- | ----------- | ----------- |
 |computer mouse|lego|Lego blocks inspire creativity and customization. By combining the fun and playful aspect of Lego with the functionality of a computer mouse, the design can allow the user to create various designs and patterns on the surface of the mouse, making it a fun and personalized tool for work and play.|The Legomouse is a customizable computer mouse that can be assembled using Lego blocks. The mouse's base is designed to fit various Lego blocks, allowing the user to build and personalize different designs and shapes on the surface of the mouse. The Legomouse is ergonomically designed for comfort and precision, with two customizable buttons and a scroll wheel. It connects to the computer via USB port and is compatible with both Windows and Mac operating systems. The Legomouse is perfect for creative professionals, kids, and anyone who enjoys the fun and tactile experience of building with Lego.|
